@@ -1,0 +1,11 @@
+{
+  "name": "format-date",
+  "version": "1.0.0",
+  "description": "Command line tool to format date",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chris Masters",
+  "license": "ISC"
+}
