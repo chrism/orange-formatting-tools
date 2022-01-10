@@ -10,6 +10,7 @@
   "author": "Chris Masters",
   "license": "ISC",
   "dependencies": {
+    "clipboardy": "^3.0.0",
     "date-fns": "^2.28.0"
   }
 }
