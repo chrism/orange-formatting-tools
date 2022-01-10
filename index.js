@@ -10,5 +10,8 @@ let inputDate = args.join(' ')
 
 const jsDate = new Date(inputDate)
 
-const formattedDate = format(jsDate, 'd MMM yyyy', {locale: fr})
+let options = {}
+//let options = { locale: fr }
+
+const formattedDate = format(jsDate, 'd MMM yyyy', options)
 console.log(formattedDate)
