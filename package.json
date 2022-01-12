@@ -1,5 +1,5 @@
 {
-  "name": "format-date",
+  "name": "orange-formatting-tools",
   "version": "1.0.0",
   "description": "Command line tool to format date",
   "type": "module",
