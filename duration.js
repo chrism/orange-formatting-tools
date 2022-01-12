@@ -1,4 +1,4 @@
-// in seconds from the api
+// provide duration in seconds
 
 import clipboard from 'clipboardy'
 
