@@ -2,10 +2,11 @@
   "name": "format-date",
   "version": "1.0.0",
   "description": "Command line tool to format date",
-  "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "date": "node date.js",
+    "id": "node id.js",
+    "duration": "node duration.js"
   },
   "author": "Chris Masters",
   "license": "ISC",
